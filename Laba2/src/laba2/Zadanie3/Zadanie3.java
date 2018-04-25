@@ -8,7 +8,9 @@ package laba2.Zadanie3;
 
 /**
  *
- * @author Я
+ * 2.3.	Рисуем треугольник 
+Используя цикл for вывести на экран прямоугольный треугольник из восьмёрок со сторонами 10 и 10. 
+
  */
 public class Zadanie3 {
 public static void main(String[] args) throws Exception
