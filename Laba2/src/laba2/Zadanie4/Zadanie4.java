@@ -1,7 +1,6 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * 2.4.	Минимум двух чисел. Ввести с клавиатуры два числа, и вывести на экран 
+минимальное из них (Поиск минимума выполняется в функции).
  */
 package laba2.Zadanie4;
 import java.util.Scanner; 
